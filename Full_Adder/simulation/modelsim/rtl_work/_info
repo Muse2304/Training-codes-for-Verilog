@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Full_Adder/simulation/modelsim
+vfullAdder
+Z1 !s110 1762738485
+!i10b 1
+!s100 03L9ihDJ>=^TLQ;=?S1Ve1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIb`W_4GWzb>L7zceQT@WP1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1762737653
+8E:/Full_Adder/fullAdder.v
+FE:/Full_Adder/fullAdder.v
+!i122 0
+L0 2 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1762738485.000000
+!s107 E:/Full_Adder/fullAdder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Full_Adder|E:/Full_Adder/fullAdder.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+E:/Full_Adder
+Z8 tCvgOpt 0
+nfull@adder
+vparllelAdder
+R1
+!i10b 1
+!s100 3@Rze@UN:H4K13k^F63BY1
+R2
+I:GFVGRSj6Y]<TXA[<z3TZ3
+R3
+R0
+w1762738441
+8E:/Full_Adder/parllelAdder.v
+FE:/Full_Adder/parllelAdder.v
+!i122 1
+L0 2 14
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Full_Adder/parllelAdder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Full_Adder|E:/Full_Adder/parllelAdder.v|
+!i113 1
+R6
+R7
+R8
+nparllel@adder
+vparllelAdder_tb
+R1
+!i10b 1
+!s100 kiSW8GKn4Tm0c1=_mC;7S1
+R2
+Ik;ca0a`iH]M4Ga22;^9Bl3
+R3
+R0
+w1762738401
+8E:/Full_Adder/parllelAdder_tb.v
+FE:/Full_Adder/parllelAdder_tb.v
+!i122 2
+L0 2 17
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Full_Adder/parllelAdder_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Full_Adder|E:/Full_Adder/parllelAdder_tb.v|
+!i113 1
+R6
+R7
+R8
+nparllel@adder_tb
